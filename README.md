@@ -28,3 +28,19 @@ Overall, this program is a very simple example of how Python can be used to take
 
 ### Running the code
 
+We can run this code with installed python version. Fire up your terminal (mac) or cmd/powershell(windows) to run the following commands:
+
+*Check the version of the python first to make sure it has been installed*
+
+```
+python --version
+```
+
+*Run the script hello.py*
+
+```
+python hello.py
+```
+
+
+
