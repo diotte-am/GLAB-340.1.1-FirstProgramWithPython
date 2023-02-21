@@ -6,13 +6,13 @@
 hello.py is a simple program that asks the user for their name and age, and then greets them. When the user runs this program, it will prompt them to enter their name and age. After they enter this information, the program will greet them by name and tell them their age.
 
 
-'''
+```
 name = input("What's your name? ")
 age = input("How old are you? ")
 
 print("Hello, " + name + "!")
 print("You are " + age + " years old.")
-'''
+```
 
 ### hello.py (breakdown)
 
