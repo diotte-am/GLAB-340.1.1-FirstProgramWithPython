@@ -44,8 +44,4 @@ python hello.py
 
 ***Walkthrough***
 
-<video width="320" height="240" controls>
-  <source src="FirstProgramWithPython.mp4" type="mp4">
-</video>
-
-
+![](https://github.com/ps-manish/GLAB-340.1.1-FirstProgramWithPython/blob/main/FirstProgramWithPython.gif)
