@@ -2,10 +2,10 @@
 
 # First Program With Python
 
-Introduction
+## Introduction
 hello.py is a simple program that asks the user for their name and age, and then greets them. When the user runs this program, it will prompt them to enter their name and age. After they enter this information, the program will greet them by name and tell them their age.
 
-Lab Overview
+## Lab Overview
 This is the first lab for Python. In this lab, learners will write their first program. By the end of this lab, learners will be able to print messages including inputs from user using Python.
 
 
