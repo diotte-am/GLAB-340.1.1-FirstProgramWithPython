@@ -9,6 +9,8 @@ hello.py is a simple program that asks the user for their name and age, and then
 This is the first lab for Python. In this lab, learners will write their first program. By the end of this lab, learners will be able to print messages including inputs from user using Python.
 
 
+### Example hello.py
+
 ### hello.py
 
 ```
