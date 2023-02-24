@@ -1,6 +1,6 @@
 [![Per Scholas](per_scholas_logo.png)](https://www.perscholas.org) 
 
-# First Program With Python
+# GLAB-340.1.1-FirstProgramWithPython
 
 ## Introduction
 hello.py is a simple program that asks the user for their name and age, and then greets them. When the user runs this program, it will prompt them to enter their name and age. After they enter this information, the program will greet them by name and tell them their age.
