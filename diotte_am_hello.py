@@ -12,7 +12,7 @@ def greeting():
     user_age = int(input("How old are you? "))
     # conditionals
     if user_age == AMARE_AGE:
-        print("Wow, %s, we're the same age!", user_name)
+        print("Wow, " + user_name + ", we're the same age!")
     elif user_age > AMARE_AGE:
         print("Hi, " + user_name + ", you are " + str(user_age - AMARE_AGE) + " years older than me")
     else:
